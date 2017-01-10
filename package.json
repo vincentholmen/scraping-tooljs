@@ -1,0 +1,12 @@
+{
+  "name": "webscraper",
+  "version": "0.0.0",
+  "description": "Webscraper",
+  "main": "scraper.js",
+  "author": "Vincent",
+  "license": "",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.65.0"
+  }
+}
